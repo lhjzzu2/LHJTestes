@@ -1,2 +1,2 @@
 # LHJTestes
-这是一个test文件
+this is a test
